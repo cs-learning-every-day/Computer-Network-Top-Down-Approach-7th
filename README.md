@@ -16,8 +16,8 @@
   - [x] CH3 TCP
   - [x] CH3 UDP
   - [x] CH4 IP
-  - [ ] CH4 NAT
-  - [ ] CH4 DHCP
+  - [x] CH4 NAT
+  - [x] CH4 DHCP
   - [x] CH5 ICMP
   - [ ] CH5 Ethernet and ARP
   - [ ] CH6 802.11 WiFi
