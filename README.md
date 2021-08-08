@@ -8,7 +8,7 @@
   - [x] [CH2 UDPing](./python-socket/套接字编程作业/UDPping程序)
   - [x] [CH2 SMTP Client](./python-socket/套接字编程作业/邮件客户端)
   - [x] [CH2 Web Proxy](./python-socket/套接字编程作业/Web服务器)
-  - [ ] [CH4 ICMP Ping](./python-socket/套接字编程作业/ICMPping程序)
+  - [ ] [CH5 ICMP Ping](./python-socket/套接字编程作业/ICMPping程序)
 - [Wireshark Experiment](./PDF_Wireshark_labs)
   - [x] CH1 Intro
   - [x] CH2 HTTP
@@ -16,10 +16,10 @@
   - [x] CH3 TCP
   - [x] CH3 UDP
   - [x] CH4 IP
-  - [x] CH4 ICMP
-  - [ ] CH4 DHCP
   - [ ] CH4 NAT
-  - [ ] CH5 ARP
-  - [ ] CH6 802.11
+  - [ ] CH4 DHCP
+  - [x] CH5 ICMP
+  - [ ] CH5 Ethernet and ARP
+  - [ ] CH6 802.11 WiFi
   - [ ] CH8 SSL
 
