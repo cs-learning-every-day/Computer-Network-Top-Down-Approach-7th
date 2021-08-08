@@ -1,6 +1,25 @@
+### 相关资源
+
 - [官网资源](https://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)
+- [CS144](https://github.com/cs-learning-every-day/cs144)
 - [习题解答（第七版）](https://github.com/moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES/blob/master/Resource/Solutions-7th-Edition.docx)
 - [Socket Program](./python-socket)
+  - [x] [CH2 Web Server](./python-socket/套接字编程作业/Web服务器)
+  - [x] [CH2 UDPing](./python-socket/套接字编程作业/UDPping程序)
+  - [x] [CH2 SMTP Client](./python-socket/套接字编程作业/邮件客户端)
+  - [x] [CH2 Web Proxy](./python-socket/套接字编程作业/Web服务器)
+  - [ ] [CH4 ICMP Ping](./python-socket/套接字编程作业/ICMPping程序)
 - [Wireshark Experiment](./PDF_Wireshark_labs)
-- [CS144](https://github.com/cs-learning-every-day/cs144)
+  - [x] CH1 Intro
+  - [x] CH2 HTTP
+  - [x] CH2 DNS
+  - [x] CH3 TCP
+  - [x] CH3 UDP
+  - [x] CH4 IP
+  - [x] CH4 ICMP
+  - [ ] CH4 DHCP
+  - [ ] CH4 NAT
+  - [ ] CH5 ARP
+  - [ ] CH6 802.11
+  - [ ] CH8 SSL
 
